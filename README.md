@@ -5,6 +5,8 @@ Tegin konsoolirakenduse kus on menüü mis kuvab erinevaid funktsioone mida saab
 võimalik on kasutada kalkulaatorit mis lahendab kasutaja eest ülesanded ja tagastab need,
 <img width="177" height="127" alt="{64ADE392-9EFB-4596-92CB-76FEEAE94F36}" src="https://github.com/user-attachments/assets/32121762-4af3-415f-a77e-8a24543d266c" />
 
-ning täiesti funktsionaalne menüü millega saab kõiki funktsioone kasutada,
-<img width="220" height="107" alt="{B557FABC-418E-43F1-BCE7-E6803C476564}" src="https://github.com/user-attachments/assets/98df86bb-7552-4975-81d6-738831dc0405" />
+on ka võimalik salvestada kasutaja andmeid mis salvestatakse teise faili kus on näha sisestamis kuupäeva,nime ja perekonnanime
+<img width="226" height="64" alt="{802E5272-57E1-4D62-906A-24FA5F789563}" src="https://github.com/user-attachments/assets/392ddf89-f28e-4bc4-b741-79ee78f1c83c" />
+<img width="283" height="90" alt="{A1B991A9-3D17-4FA5-AD03-5B5063704CEA}" src="https://github.com/user-attachments/assets/d689ae76-abd1-44e4-9a3c-1bab185192bc" />
+
 
